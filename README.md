@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page 👋
 
-- 🗺  Currently working as a summer research assistant @ Swarthmore College
+- &nbsp 🗺  Currently working as a summer research assistant @ Swarthmore College
 - 🌱  Learning R and C
 - 📫  How to reach me: amzhang02@gmail.com
 - 🍄  Pronouns: she/her
