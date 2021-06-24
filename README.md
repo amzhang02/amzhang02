@@ -2,7 +2,7 @@
 
 - 🗺  Currently working as a summer research assistant @ Swarthmore College
 - 🌱  Learning R and C
-- 📫  How to reach me: amzhang02@gmail.com
+- 📫  Connect with me on [my LinkedIn](https://www.linkedin.com/in/alyssa-zhang-13697a187/)
 - 🍄  Pronouns: she/her
 - 🐢 💨  Fun fact: My favorite sport to watch is Formula 1!
 
