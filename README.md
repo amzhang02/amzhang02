@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page 👋
 
-- 🗺  Currently working as a summer research assistant @ Swarthmore College
+- 🗺  Currently studying CS, Statistics, & Art @ Swarthmore College
 - 🌱  Learning R and C
 - 📫  Connect with me on [my LinkedIn](https://www.linkedin.com/in/alyssa-zhang-13697a187/)
 - 🍄  Pronouns: she/her
