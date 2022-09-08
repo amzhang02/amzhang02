@@ -1,7 +1,7 @@
 ### Welcome to my GitHub page 👋
 
 - 🗺  Currently studying CS & Studio Art @ Swarthmore College
-- 🌱  Learning UI/IX design principles, Javascript, & SQL
+- 🌱  Learning UI/IX design principles & Javascript
 - 📫  Connect with me on [my LinkedIn](https://www.linkedin.com/in/alyssa-zhang-13697a187/)
 - 🍄  Pronouns: she/her
 - 🐢 💨  Fun fact: I do track & field!
