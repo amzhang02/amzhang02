@@ -1,7 +1,7 @@
 ### Welcome to my GitHub page 👋
 
 - 🗺  Currently studying CS & Studio Art @ Swarthmore College
-- 🌱  Learning Django, & SQL
+- 🌱  Learning Django, & SQL @ OMNIVISION
 - 🎨  Check out my projects & paintings [here](https://www.alyssamzhang.com/)!
 - 📫  Connect with me on [my LinkedIn](https://www.linkedin.com/in/alyssa-zhang-13697a187/)
 - 🍄  Pronouns: she/her
