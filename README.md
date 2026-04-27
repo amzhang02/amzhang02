@@ -1,7 +1,7 @@
 ### Welcome to my GitHub page 👋
 
-- 🗺  Currently studying CS & Studio Art @ Swarthmore College
-- 🌱  Learning React & Next.js
+- 🗺  Currently a Regulatory Health Tech Consultant @ Qualtrics
+- 🌱  Learning React & AWS
 - 🎨  Check out my projects & paintings [here](https://alyssamzhang.com/)!
 - 📫  Connect with me on [my LinkedIn](https://www.linkedin.com/in/alyssa-zhang-13697a187/)
 
